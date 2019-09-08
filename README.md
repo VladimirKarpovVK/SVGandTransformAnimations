@@ -1,2 +1,0 @@
-# SVGandTransformAnimations
-Created with CodeSandbox
